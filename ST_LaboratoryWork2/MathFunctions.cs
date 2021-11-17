@@ -12,29 +12,18 @@ namespace ST_LaboratoryWork2
 			{
 				throw new ArgumentException("Входное значение по модулю не может быть большим или равным 1");
 			}
-			double eps = 0.0000001;
-			double result = 0.0;
-			int n = 1;
-			double expression;
-			do
+			double n = 1;
+			double a = x;
+			double s = 1;
+			double r = x;
+			while (s > 1.0E-12)
 			{
-				expression = (Factorial(2 * n) / (Power(4, n) * Power(Factorial(n), 2) * (2 * n + 1))) * Power(x, 2 * n + 1);
-				result += expression;
+				a = x * x * (a * (2 * n - 1)) / (2 * n);
+				s = a / (2 * n + 1);
+				r += s;
 				n++;
 			}
-			while (Abs(expression) < eps);
-			return Math.PI / 2 - result;
-			//double result = x;
-			//double a = x;
-			//int i = 1;
-
-			//while (a < 0.000001)
-			//{
-			//	a *= x * x * (2 * i - 1) * (2 * i - 1) / ((2 * i + 1) * 2 * i);
-			//	result += a;
-			//	i++;
-			//}
-			//return Math.PI / 2 - result;
+			return Math.PI / 2 - r;
 		}
 
 		public static double Sin (double x, int nTerms = 30)
