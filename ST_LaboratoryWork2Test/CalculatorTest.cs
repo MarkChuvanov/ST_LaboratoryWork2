@@ -7,7 +7,7 @@ using System.Text;
 namespace ST_LaboratoryWork2Test
 {
 	[TestFixture]
-	class CalculatorTest
+	public class CalculatorTest
 	{
 		[Test]
 		public void CalculateTest ()
