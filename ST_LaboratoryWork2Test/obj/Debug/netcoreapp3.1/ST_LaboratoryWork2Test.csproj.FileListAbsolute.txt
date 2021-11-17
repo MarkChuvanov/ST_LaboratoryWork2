@@ -1,0 +1,208 @@
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.deps.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.exe
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.deps.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.runtimeconfig.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.genruntimeconfig.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testhost.exe
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.deps.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.dev.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.exe
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.deps.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.runtimeconfig.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.runtimeconfig.dev.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.AssemblyReference.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.AssemblyInfoInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.AssemblyInfo.cs
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.CoreCompileInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.csproj.CopyComplete
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2Test\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2Test.genruntimeconfig.cache

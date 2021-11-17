@@ -1,0 +1,42 @@
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.exe
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.deps.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.AssemblyReference.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.exe
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.deps.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.dev.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.AssemblyReference.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfoInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfo.cs
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.CoreCompileInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.genruntimeconfig.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.exe
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.deps.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.runtimeconfig.dev.json
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\bin\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.AssemblyReference.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfoInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.AssemblyInfo.cs
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.csproj.CoreCompileInputs.cache
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.dll
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.pdb
+D:\Institute\GitHub repositories\ST_LaboratoryWork2\ST_LaboratoryWork2\obj\Debug\netcoreapp3.1\ST_LaboratoryWork2.genruntimeconfig.cache
