@@ -11,7 +11,7 @@ namespace ST_LaboratoryWork2
 			WriteFile();
 		}
 
-		private static void WriteFile (string path1 = @"D:\Institute\GitHub repositories\ST_LaboratoryWork2\sin.csv", string path2 = @"D:\Institute\GitHub repositories\ST_LaboratoryWork2\cos.csv")
+		private static void WriteFile (string path1 = @"D:\Institute\GitHub repositories\ST_LaboratoryWork2\sin.csv", string path2 = @"D:\Institute\GitHub repositories\ST_LaboratoryWork2\cos.csv", string path3 = @"D:\Institute\GitHub repositories\ST_LaboratoryWork2\acos.csv")
 		{
 			using StreamWriter sw = new StreamWriter(path1, false, Encoding.Default);
 			for (double i = -10; i < 10; i += 0.1)
@@ -22,6 +22,11 @@ namespace ST_LaboratoryWork2
 			for (double i = -10; i < 10; i += 0.01)
 			{
 				sw1.WriteLine($"{i}; {MathFunctions.Cos(i)}");
+			}
+			using StreamWriter sw2 = new StreamWriter(path3, false, Encoding.Default);
+			for (double i = -0.99; i < 0.99; i += 0.01)
+			{
+				sw2.WriteLine($"{i}; {MathFunctions.Acos(i)}");
 			}
 		}
 	}
